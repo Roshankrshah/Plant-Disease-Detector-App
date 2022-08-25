@@ -1,6 +1,6 @@
 # Plant-Disease-Detector-App
 
-Motivation
+#Motivation
 In India about 70% of the populace relies on agriculture. Identification of the 
 plant diseases is important in order to prevent the losses within the yield. It's 
 terribly troublesome to observe the plant diseases manually. It needs tremendous 
@@ -11,7 +11,7 @@ can be employed for the detection of plant diseases.
 In this project, we have described the technique for the detection of plant diseases 
 with the help of their leaf’s pictures.
 
-Dataset
+#Dataset
 We have used public dataset for plant leaf disease detection called 
 Plant Village.The dataset consists of 87000 RGB images of healthy and unhealthy 
 plant leaves having 38 classes.
